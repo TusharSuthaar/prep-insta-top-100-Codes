@@ -80,3 +80,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ⭐ Don’t forget to **star this repository** if you find it helpful!
+
+```
+
+Do you also want me to **expand the Problem List section** into a **full index of 100 problems with links** (like a clickable table of contents), so it looks more professional?
+```
